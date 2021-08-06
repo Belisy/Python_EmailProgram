@@ -1,1 +1,1 @@
-# Python_EmailProgram
+# Python을 이용하여 엑셀DB를 이용한 메일 발송 자동화 프로그램을 구현했습니다. :)
